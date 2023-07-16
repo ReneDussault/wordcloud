@@ -1,6 +1,6 @@
 # Personality Trait WordCloud
 ### Overview
-This project generates a visual representation of my personality traits attributed from the perspective of my girlfriend, friends and colleagues.  
+This project creates a visual depiction of my personality traits as seen by my girlfriend, friends, and colleagues.  
 The traits are collected and transformed into a word cloud, which visually emphasizes the most frequently mentioned characteristics.  
 The larger and more prominent the word, the more frequently it was associated with me.
 
