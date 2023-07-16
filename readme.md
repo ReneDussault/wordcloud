@@ -7,7 +7,8 @@ The larger and more prominent the word, the more frequently it was associated wi
 Some of the traits were shortened into a "catch-all" word to facilitate the creation of the wordcloud.  
 Refer to the code (cloud.ipynb) to see the original lists of qualities / characteristics / traits.
 
-ex.: "loves to share knowledge" -> mentor (educator could also work)  
+ex.:  
+"loves to share knowledge" -> mentor (educator could also work)  
 "love for learning" -> learner (as in life long learner)
 
 
