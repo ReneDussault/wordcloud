@@ -15,3 +15,5 @@ ex.:
 ### Interpret the word cloud visualization:
 Larger words represent traits mentioned more frequently.  
 The positioning of words has no specific meaning; it is purely aesthetic.  
+
+![Word Cloud]([Image URL](https://github.com/ReneDussault/wordcloud/blob/main/wordcloud.png)https://github.com/ReneDussault/wordcloud/blob/main/wordcloud.png)
